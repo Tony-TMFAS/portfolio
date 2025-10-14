@@ -11,7 +11,7 @@ Emerging Data Scientist in Lagos | WorldQuant University Cert [link to Credly] |
 
 
 ## Telco Customer Churn Predictor
-
+![Telco Header](telco.png)
 This is a full-featured data science project that demonstrates how to build, train, and deploy a machine learning model to predict customer churn (when customers cancel their service). We use a public telecom dataset but frame it as a SaaS tool, where "churn" means subscription cancellations.
 This README is your complete guide—from downloading the data to launching a live web dashboard. It's designed for everyone:
 
@@ -233,6 +233,7 @@ Business Value: Reduces false negatives by 25% vs. baseline.
 
 
 ## 📊 Twitter Sentiment Analysis Dashboard
+![Twitter sentiment header](twitter.png)
 
 This project is my end-to-end implementation of a Twitter Sentiment Analysis Pipeline + Dashboard.
 It combines a Jupyter notebook (for preprocessing, sentiment analysis, and exploration) with a Streamlit app (for interactive visualization and deployment).
@@ -364,7 +365,7 @@ This project is both a portfolio piece and a practical tool for sentiment tracki
 
 
 ### 🛍️ Olist Customer Segmentation Project
-
+![Olist Customer Segmentation header](olist.png)
 This project applies **machine learning** to real e-commerce data from the Brazilian marketplace **Olist** to **segment customers** based on their purchasing behavior. It combines **data science**, **API development**, and **web app deployment** into one smooth pipeline.
 
 ---
